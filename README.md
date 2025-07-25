@@ -13,7 +13,7 @@ Bu proje, kullanıcıların bir butona tıklamasıyla tüm sayfanın dönüş ha
 
 - HTML5
 - CSS3 (transform, transition)
-- Vanilla JavaScript
+- JavaScript
 - [Font Awesome](https://fontawesome.com/)
 
 ## 🖼️ Ekran Görüntüsü
@@ -29,6 +29,6 @@ Bu proje, kullanıcıların bir butona tıklamasıyla tüm sayfanın dönüş ha
 Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
-git clone https://github.com/kullaniciadi/rotating-navigation-ui.git
+git clone https://github.com/yusufurkankale/rotating-navigation-ui.git
 cd rotating-navigation-ui
 index.html dosyasını tarayıcıda aç
